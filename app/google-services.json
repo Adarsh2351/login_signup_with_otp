@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "17073418801",
+    "project_id": "loginsignupusingotp-398ba",
+    "storage_bucket": "loginsignupusingotp-398ba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:17073418801:android:0595656b3c4154b4ad1b10",
+        "android_client_info": {
+          "package_name": "com.adarsh.loginsignupwithotp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "17073418801-mikf2vh1m52h4b7o2dg7alb7ha2e6m26.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANDOCKNRNC7KQlpM9NMOSH0r1O5ihMncA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "17073418801-mikf2vh1m52h4b7o2dg7alb7ha2e6m26.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
